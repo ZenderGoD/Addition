@@ -1,2 +1,2 @@
-# Addition
-Streamlit app for addition of two numbers
+# Addition-Streamlit
+Parth Bansal, 21f3000805
